@@ -7,7 +7,7 @@
 - Kubernetes의 오토스케일링 기능을 활용하여 시장 급변동 시에도 중단 없는 서비스 보장
 
 ### 서비스 화면
-<img width="597" alt="Screenshot 2025-01-18 at 3 39 52 PM" src="https://github.com/user-attachments/assets/eee554ff-1ae8-4776-834b-7b8f4af94f53" /> <img width="533" alt="Screenshot 2025-01-18 at 3 40 46 PM" src="https://github.com/user-attachments/assets/06cf1a20-efe7-42b6-a982-899bbaae7fce" />
+<img width="597" alt="Screenshot 2025-01-18 at 3 39 52 PM" src="https://github.com/user-attachments/assets/eee554ff-1ae8-4776-834b-7b8f4af94f53" /><img width="533" alt="Screenshot 2025-01-18 at 3 40 46 PM" src="https://github.com/user-attachments/assets/06cf1a20-efe7-42b6-a982-899bbaae7fce" />
 
 ### 동작 시나리오
 1. 주식 시장 급변동으로 인한 뉴스 폭증 대응 ➡️ 자동으로 요약 Pod 수를 늘려 요청을 빠르게 처리
